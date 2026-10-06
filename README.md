@@ -31,18 +31,10 @@ Aplicação Android nativa em Kotlin que reproduz um MVP do clássico Space Inva
    - `Run > Run 'app'` para instalar no emulador ou dispositivo
 4. Se preferir via linha de comandos:
 
-```powershell
-cd "C:\Users\adpinheiro\OneDrive - IMPAR.CV\Ambiente de Trabalho\Pong\spaceinvadersandroid"
-./gradlew.bat assembleDebug
-```
 
 ## APK de debug
 
-O APK gerado está em:
 
-```text
-C:\Users\adpinheiro\OneDrive - IMPAR.CV\Ambiente de Trabalho\Pong\spaceinvadersandroid\app\build\outputs\apk\debug\app-debug.apk
-```
 
 Pode instalar diretamente no dispositivo ou arrastá-lo para um emulador.
 
